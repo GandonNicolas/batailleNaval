@@ -1,0 +1,11 @@
+{
+    "name": "wid/toucheecoule",
+    "description": "Mon blog",
+    "type": "project",
+    "require": {
+      "ext-pgsql": "*"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
